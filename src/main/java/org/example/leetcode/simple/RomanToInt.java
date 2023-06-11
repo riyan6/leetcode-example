@@ -1,12 +1,3 @@
-/**
- * 北京云锦汇智信息技术有限公司 版权所有Copyright (C) 2022
- *
- * @ProjectName: leetcode-example
- * @Package: org.example.leetcode.simple
- * @ClassName: RomanToInt
- * @CreateUser: 曹评智
- * @CreateDate: 2023/6/8 16:57 星期四
- */
 package org.example.leetcode.simple;
 
 import java.util.HashMap;
@@ -14,7 +5,7 @@ import java.util.Map;
 
 /**
  * @Description: 罗马数字转整形
- * @author 曹评智
+ * @author riyan6
  * @since 2023/6/8 19:57 星期四
  */
 public class RomanToInt {
